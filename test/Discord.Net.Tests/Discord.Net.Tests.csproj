@@ -21,7 +21,7 @@
     <ProjectReference Include="../../src/Discord.Net.Analyzers/Discord.Net.Analyzers.csproj" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Akavache" Version="6.0.31" />
+    <PackageReference Include="Akavache" Version="7.2.1" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.9.0" />
     <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
     <PackageReference Include="xunit" Version="2.4.1" />
